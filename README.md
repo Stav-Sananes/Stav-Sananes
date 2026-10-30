@@ -36,6 +36,20 @@ Setting up an old CS 1.6 server means hours of HLDS, Metamod, AMX Mod X and bot 
 
 ### 🧰 Stack
 
-TypeScript · Node.js / NestJS · React / Next.js · React Native (Expo) · Python / FastAPI · PostgreSQL / pgvector · Redis · Swift · C++ · Laravel / PHP · CodeIgniter · MySQL · MongoDB
+**Languages:** TypeScript · Python · C++ · Swift · PHP
+
+**AI:** Claude (Anthropic API) · OpenAI API · MCP · Ollama · RAG · faster-whisper · Silero VAD · sentence-transformers · AI coding agents
+
+**Frontend:** React · Next.js · Angular · Vue · Tailwind CSS · Radix UI · TanStack · Vite
+
+**Mobile:** React Native (Expo)
+
+**Backend:** Node.js · NestJS · Express · FastAPI · Laravel · CodeIgniter
+
+**Data:** PostgreSQL · pgvector · ChromaDB · Supabase · Redis · BullMQ · MySQL · MongoDB · Prisma · SQLAlchemy · TypeORM
+
+**Testing and quality:** Vitest · Jest · Playwright · pytest · mypy · Ruff · Zod
+
+**Infra:** Docker · Turborepo · pnpm · OpenTelemetry · GitHub Actions · Fly.io · Stripe
 
 📚 My earlier projects, from my first Laravel apps to C++ exercises, are in [learning-projects](https://github.com/Stav-Sananes/learning-projects).
