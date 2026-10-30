@@ -2,7 +2,7 @@
 
 I'm a **full-stack developer** who builds **products and developer tools**.
 
-I love this craft. From 2020 through 2026 I went from Laravel and Vue, through C++, to AI agents and local models, and it keeps pulling me in deeper. I build things because I want them to exist, I take apart how things work to understand them, and I keep investing in getting better at this every week. Every project on this page started with a problem that bugged me.
+I love this craft. I started in 2020 with Laravel and PHP, moved on to Vue, then to JavaScript and TypeScript with Node.js and NestJS, and then to Python. Today I build AI products and the infrastructure underneath them: LLM gateways, retrieval (RAG) pipelines, and speech and language models that run locally. I learn by building. Every project on this page started with a problem I wanted solved, and I take tools apart until I understand how they really work. My goal is to keep going deeper into AI engineering and infrastructure, and to build products and developer tools that people rely on every day.
 
 ---
 
