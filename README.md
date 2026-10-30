@@ -20,7 +20,7 @@ AI design tools hand the model presets and style catalogs, which is why their ou
 **[Pastie](https://github.com/Stav-Sananes/Pastie): a clipboard manager for macOS**
 macOS keeps exactly one thing on the clipboard. Pastie lives in the menu bar, remembers what you copied, lets you search it, and pastes any entry back with a keystroke.
 
-**[cs16-deathmatch-server](https://github.com/Stav-Sananes/cs16-deathmatch-server): Counter-Strike 1.6 in one double-click**
+**[cs16-deathmatch-server](https://github.com/Stav-Sananes/learning-projects/tree/main/powershell/cs16-deathmatch-server): Counter-Strike 1.6 in one double-click**
 Setting up an old CS 1.6 server means hours of HLDS, Metamod, AMX Mod X and bot configs. One script does all of it, with a menu for install, game mode and diagnostics.
 
 ---
