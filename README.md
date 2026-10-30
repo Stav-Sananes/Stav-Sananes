@@ -2,7 +2,7 @@
 
 I'm a **full-stack developer** who builds **products and developer tools**.
 
-I love this craft. From 2022 through 2026 I went from Laravel and Vue, through C++, to AI agents and local models, and it keeps pulling me in deeper. I build things because I want them to exist, I take apart how things work to understand them, and I keep investing in getting better at this every week. Every project on this page started with a problem that bugged me.
+I love this craft. From 2020 through 2026 I went from Laravel and Vue, through C++, to AI agents and local models, and it keeps pulling me in deeper. I build things because I want them to exist, I take apart how things work to understand them, and I keep investing in getting better at this every week. Every project on this page started with a problem that bugged me.
 
 ---
 
