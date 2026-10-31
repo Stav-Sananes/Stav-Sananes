@@ -36,13 +36,13 @@ Setting up an old CS 1.6 server means hours of HLDS, Metamod, AMX Mod X and bot 
 
 ### 🧰 Stack
 
-**Languages:** TypeScript · Python · C++ · Swift · PHP
+**Languages:** TypeScript · Python · C++ · Swift · PHP  
 
 **AI:** Claude (Anthropic API) · OpenAI API · MCP · Ollama · RAG · faster-whisper · Silero VAD · sentence-transformers · AI coding agents
 
 **Frontend:** React · Next.js · Angular · Vue · Tailwind CSS · Radix UI · TanStack · Vite
 
-**Mobile:** React Native (Expo)
+**Mobile:** React Native (Expo) · Flutter
 
 **Backend:** Node.js · NestJS · Express · FastAPI · Laravel · CodeIgniter
 
